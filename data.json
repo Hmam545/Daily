@@ -1,4 +1,8 @@
 {
-    "title": "Local file",
-    "description": "This is text from the local JSON file"
+    "images" : {
+        "001" : {
+    "uploaderName" : "Nina"
+    
+        }
+    }
 }
