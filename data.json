@@ -1,8 +1,1 @@
-{
-    "images" : {
-        "001" : {
-    "uploaderName" : "Nina"
-    
-        }
-    }
-}
+{"foo":"bar"}
